@@ -12,6 +12,7 @@ int main(){
   printf("MACKENZIE - FCI \n");
   printf("Ciência da Computação\n");
   printf("Algoritmos e Programação II \n");
+  printf("FUNDAÇAO DA FCI: 22 de maio de 1911\n");
 
   return 0;
 
