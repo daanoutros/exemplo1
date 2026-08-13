@@ -9,9 +9,9 @@ TURMA: 02P | ALGORITMOS E PROGRAMAÇÃO II
 #include <stdio.h>
 
 int main(){
-  printf("MACKENZIE - FCI/n");
-  printf("Algoritmos e ");
-  printf("Prog. II/n");
+  printf("MACKENZIE - FCI \n");
+  printf("Ciência da Computação\n");
+  printf("Algoritmos e Programação II \n");
 
   return 0;
 
